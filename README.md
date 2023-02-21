@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Jiazheng(Gary) Huang, a Full Stack Developer who specializes in JavaScript Technologies across the whole stack (Node.js, Express, React, MongoDB). Expertised in React with 4 years of commercial experience.
 
 
 ### Skills 🔧
