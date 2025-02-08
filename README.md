@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ### Stats 📈
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garyhuangdev&theme=radical&count_private=true&show_icons=true&hide=prs)](https://github.com/garyhuangdev)
-
+[![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyhuangdev&count_private=true&show_icons=true)](https://github.com/garyhuangdev/github-readme-stats)
 
 **🤝🏻 &nbsp;Connect with Me**
 
