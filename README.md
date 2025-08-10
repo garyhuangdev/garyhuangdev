@@ -1,28 +1,35 @@
-### Hi there 👋
+## Hi, I'm Gary 👋
 
-### Skills 🔧
+**AI Enthusiast • Senior Software Engineer**
 
-`JavaScript`, `TypeScript`, `AWS`, `React.js`, `Express.js`, `Node.js`
+Passionate about solving real-world challenges through first principles thinking and innovative solutions.
 
+### 🚀 Tech Stack
 
-<!--
-**garyhuangdev/garyhuangdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages & Frameworks**  
+`TypeScript` `JavaScript` `React` `Node.js` `Next.js`
 
-Here are some ideas to get you started:
+**Cloud & Infrastructure**  
+`AWS` `Azure` `Docker` `Kubernetes` `CI/CD`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases & Tools**  
+`SQL/NoSQL` `GraphQL` `Microservices` `System Design`
 
-### Stats 📈
-[![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyhuangdev&count_private=true&show_icons=true)](https://github.com/garyhuangdev/github-readme-stats)
+### 🔬 Research & Development
 
-**🤝🏻 &nbsp;Connect with Me**
+Currently exploring: `Agentic AI` `RAG` `Cloud Security`
 
-<a href="mailto:garyhuang.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-garyhuang.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+### 🏆 Certifications
+
+- **AWS Certified Security - Specialty**
+- **AWS Certified Solutions Architect**
+- **Oracle Cloud Infrastructure Certified**
+- **Oracle Cloud Infrastructure AI Certified**
+
+### 📊 GitHub Stats
+
+[![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyhuangdev&count_private=true&show_icons=true&theme=dark)](https://github.com/garyhuangdev/github-readme-stats)
+
+### 📫 Connect
+
+[Email](mailto:garyhuang.dev@gmail.com)
